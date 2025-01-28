@@ -1,0 +1,15 @@
+.text {
+    font-family: Garamond , Georgia;
+    font-size: 20px;
+    background-color: brown;
+    color: white;
+}
+
+.heading {
+    font-family: Papyrus , "Lucida Handwriting";
+}
+
+.links {
+    font-family: "Courier New" , Garamond;
+    font-weight: bold;
+}
